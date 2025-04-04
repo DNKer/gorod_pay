@@ -10,10 +10,39 @@
 }
 
 .special-card__heading {
-  margin: 0;
+  margin: 0 0 8px;
   color: #1E222E;
   text-align: center;
-  font-size: 16px;
+  font-size: 22px;
   font-weight: 700;
+  line-height: 28px;  
+}
+
+.special-card__description {
+  margin: 0 0 12px;
+  font-weight: 400;
+  font-size: 15px;
   line-height: 20px;
+}
+
+.special-card--accent {
+  background-color: #5E81FF;
+}
+
+.special-card--accent .special-card__heading,
+.special-card--accent .special-card__description,
+.special-card--accent .special-card__list {
+  color: #ffffff;
+}
+
+.special-card--accent .special-card__list {
+  list-style-type: disc;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  padding: 20px;
+}
+
+.special-card__list li {
+  margin-bottom: 12px;
 }
