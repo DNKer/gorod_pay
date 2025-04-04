@@ -1,0 +1,33 @@
+.hero__wrapper {
+    display: grid;
+    grid-template-columns: 1fr 564px;
+    gap: 56px;
+    align-items: center;
+    margin: 0 0 100px 0;
+    padding: 70px 100px;
+    background-color: #F4F6FA;
+}
+
+.hero__text {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    margin: 0 0 24px 0;
+    color: #1E222E;
+}
+
+.hero__slogan {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0 0 48px 0;
+    color: #1E222E;
+}
+
+.hero__download {
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 20px;
+    padding: 18px;
+    width: 224px;
+}
