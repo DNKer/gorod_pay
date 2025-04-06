@@ -3,6 +3,7 @@
 @import './global/reboot.css';
 @import './global/fonts.css';
 @import './global/visually-hidden.css';
+@import './global/container.css';
 
 /* Blocks */
 /* ------------------------------------ */
@@ -16,4 +17,4 @@
 @import './blocks/special-card.css';
 @import './blocks/footer.css';
 @import './blocks/hero.css';
-
+@import './blocks/special-offers.css';
