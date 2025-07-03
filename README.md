@@ -1,0 +1,2 @@
+# GorodPay сайта «Газпромбанка»
+Учебный проект страницы GorodPay сайта «Газпромбанка», основываясь на дизайне из предоставленного макета в Figma [Figma](https://www.figma.com/design/UyCvNmvTXrGgajdKsAHvsQ/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%94%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-FWEB-5358?node-id=0-1&p=f&t=dr5WYzrBu43yHUU0-0). Cетки разработаны с помощью технологии **Grid**. В микросетках использован flexbox.
